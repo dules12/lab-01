@@ -1,0 +1,90 @@
+.grid-container{
+  width: 100%; 
+  max-width: 480px;    
+  margin: 50px;  
+  height: 767px;
+  background: lightgray;
+}
+
+.row {
+  border: black 2px solid;
+  text-align: center;
+  display: block;
+  
+}
+
+#rowOne {
+  width: 100%;
+  height: 75px;
+ 
+}
+
+#rowTwo {
+  width: 100%;
+  height: 150px;
+}
+
+#rowThree {
+  width: 100%;
+  height: 125px;
+}
+
+#rowFour {
+  width: 100%;
+  height: 125px;
+}
+
+#rowFive {
+  width: 100%;
+  margin: auto;
+}
+#rowFiveLeft {
+  
+  width: 49%;
+  float: left;
+  height: 250px;
+  border-right: black 1px solid;
+  text-align: center;
+  
+}
+
+#rowFiveRight {
+  
+  width: 49%;
+  float: left;
+  height: 250px;
+  border-left: black 1px solid;
+}
+
+.clear {
+  clear: both;
+}
+
+
+.textCenter {
+  margin-top: 50%;
+ 
+}
+
+#rowSixLeft {
+  
+  width: 49%;
+  float: left;
+  height: 250px;
+  border-right: black 1px solid;
+  text-align: center;
+  
+}
+
+#rowSixRight {
+  
+  width: 49%;
+  float: left;
+  height: 250px;
+  border-left: black 1px solid;
+}
+
+#rowSeven {
+  width: 100%;
+  height: 80;
+}
